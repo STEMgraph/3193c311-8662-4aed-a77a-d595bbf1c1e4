@@ -94,6 +94,7 @@ In this challenge, you'll:
 
 ## 3) Questions
 
+- Why does `ed` work the way it works, getting one line command and printing only dedicated lines?
 - What does the `.` mean in `ed`?
 - What happens if you forget the period after insert or append mode?
 - How do you delete a specific line?
